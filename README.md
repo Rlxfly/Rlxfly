@@ -1,4 +1,10 @@
-- Bukan mastah 
+# About me 
+- born in November 2006
+- Playing coc 
+- Noob editor :(
+- From ? Central Java, Indonesia
+- Phone? , Not now 
+- Well...
 
 
 
