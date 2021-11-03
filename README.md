@@ -9,6 +9,8 @@
    <a href="https://instagram.com/hi.rellllll"><img height="30" src="https://github.com/Ramlan404/Ramlan404/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </P>
 
+# • My skill ↓
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
@@ -38,5 +40,5 @@
 # Thanks for ↓
 
 * [`Arip`](https://github.com/andyjavadams)
-* [`Alip`](https://github.com/Ghost19-ui)
+* [`Alip`](https://github.com/LitRHap)
 * [`Ryantod`](https://github.com/Din-zUgex95)
