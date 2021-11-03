@@ -32,4 +32,4 @@
 
 * [`Arip`](https://github.com/Akkun3704)
 * [`Alip`](https://github.com/LitRHap)
-* [`Ryantod`](https://github.com/Din-zUgex95)
+* [`Ryantod`](https://github.com/HiRYN)
