@@ -34,3 +34,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rlxfly&label=VIEWS&style=flat-square&color=orange" />
 </p>
+
+# Thanks for ↓
+
+* [`Arip`](https://github.com/andyjavadams)
+* [`Alip`](https://github.com/Ghost19-ui)
+* [`Ryantod`](https://github.com/Din-zUgex95)
