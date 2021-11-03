@@ -6,9 +6,9 @@
 
 # contact me ↓
 
-<p align='center'>
-   <a href="https://instagram.com/hi.rellllll"><img height="30" src="https://github.com/Ramlan404/Ramlan404/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</P>
+[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hi.rellllll_)
+
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283720073017)
 
 # • My skill ↓
 
