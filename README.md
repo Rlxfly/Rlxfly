@@ -30,6 +30,6 @@
 
 # Thanks for ↓
 
-* [`Arip`](https://github.com/andyjavadams)
+* [`Arip`](https://github.com/Akkun3704)
 * [`Alip`](https://github.com/LitRHap)
 * [`Ryantod`](https://github.com/Din-zUgex95)
