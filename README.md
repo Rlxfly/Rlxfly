@@ -17,20 +17,11 @@
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
+![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl)
 
-<p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+<a href="https://github.com/Rlxfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rlxfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
-<p align="center">
-  <a href="https://github.com/Rlxfly/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=onedark" /></a>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rlxfly" />
 </p>
 
 <p align="center">
