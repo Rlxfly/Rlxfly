@@ -24,7 +24,7 @@
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Litrhap&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl)
 
 <a href="https://github.com/Rlxfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rlxfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
