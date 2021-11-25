@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/6c1a4668cd1e7856f7c0e.jpg" />
+  <img src="https://telegra.ph/file/6c1a4668cd1e7856f7c0e.jpg" width="70%" height="55%" \>
+<br>
+    <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-gold?style=for-the-badge&logo=null"></a><img title="Im" src="https://img.shields.io/badge/Im-Newbie-gold?style=for-the-badge&logo=android"></a>
 </p>
-<h1 align="center"> >///<
-</p>
+<p align="center"><img title="Im" src="https://img.shields.io/badge/Uwu->///<-pink?style=for-the-badge&logo=HTML"></a>
 
 # Contact me ⬇️
 
@@ -30,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rlxfly&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Rlxfly&label=VIEWS&style=flat-square&color=blue" />
 </p>
 
 # Thanks for ⬇️
