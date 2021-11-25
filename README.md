@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/301cb7a85fa49eb24b99d.jpg" />
+  <img src="https://telegra.ph/file/6c1a4668cd1e7856f7c0e.jpg" />
 </p>
-<h1 align="center">⬆️UwU
+<h1 align="center"> >///<
 </p>
 
 # Contact me ⬇️
