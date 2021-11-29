@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
     <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
 
