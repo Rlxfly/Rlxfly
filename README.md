@@ -7,9 +7,8 @@
 <p align="center">
   <img src="https://telegra.ph/file/6c1a4668cd1e7856f7c0e.jpg" width="70%" height="55%" \>
 <br>
-    <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-gold?style=for-the-badge&logo=null"></a><img title="Im" src="https://img.shields.io/badge/Im-Newbie-gold?style=for-the-badge&logo=android"></a>
+    <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=windows"></a>
 </p>
-<p align="center"><img title="Im" src="https://img.shields.io/badge/Uwu->///<-pink?style=for-the-badge&logo=HTML"></a>
 
 # Contact me ⬇️
 
@@ -23,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
     <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
 
 </p>
 
