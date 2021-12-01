@@ -5,17 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/6c1a4668cd1e7856f7c0e.jpg" width="70%" height="55%" \>
+  <img src="https://telegra.ph/file/b19994c90cdabaa93f7ee.png" width="100%" height="100%" \>
 <br>
-    <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=windows"></a>
+    <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-lightblue?style=for-the-badge&logo=windows"></a>
 </p>
 
-# Contact me ⬇️
-
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hi.rellllll_)
-
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283720073017)
-# • Currently Learning ⬇️
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
