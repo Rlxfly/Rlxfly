@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b19994c90cdabaa93f7ee.png" width="100%" height="100%" \>
+  <img src="https://i.ibb.co/Kh2skR2/okayu.jpg" width="70%" height="100%" \>
 <br>
     <a href="https://github.com/Rlxfly"><img title="Im" src="https://img.shields.io/badge/Hello-World-lightblue?style=for-the-badge&logo=windows"></a>
 </p>
@@ -23,7 +23,7 @@
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=tokyonight)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkun3704&layout=compact&theme=nightowl)
 <a href="https://github.com/Rlxfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rlxfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai)
 ![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Rlxfly)
