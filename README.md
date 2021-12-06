@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"><br></h1>
 
 <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie🙀;Currently+Learning+Javascript.;Don't+bully+me+>//<" alt="UwU">
+  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie🙀;Currently+Learning+HTML;Don't+bully+me+>//<" alt="UwU">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=tokyonight)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkun3704&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl)
 <a href="https://github.com/Rlxfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rlxfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai)
 ![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Rlxfly)
