@@ -26,7 +26,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&show_icons=true&theme=tokyonight" />
 <a href="https://github.com/Rlxfly"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rlxfly&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai)
-![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Rlxfly)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rlxfly&repo=bot-tzy&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rlxfly&repo=Rlxfly.github.io&theme=dark)
 </p>
 
 <p align="center">
