@@ -1,4 +1,11 @@
-### Hi.
+### Hi
+
+> * Just newbie
+> * I like learning programming language.
+> * Live in Klate, Central Java, Indonesia
+> * I'm 15 y.o.
+> * B'day 10 Nov
+> ,If you want know 
 
 ---------
 
