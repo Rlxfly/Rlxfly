@@ -21,6 +21,8 @@
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![© Rlxfly](https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight)
+  
+  ![© Rlxfly](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl)
 
 </details>
 
