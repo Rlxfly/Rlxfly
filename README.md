@@ -35,5 +35,5 @@
 
 ## Visitor 
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/@Rlxfly?theme=gelbooru-h" alt="visitor.svg">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:rlxfly?theme=rule34">
 </p>
