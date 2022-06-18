@@ -1,8 +1,10 @@
-## Hi
+<h1 align='center'> Hi there!</h1>
 
 <p align="center">
   <a href="https://github.com/Rlxfly"><img src="https://telegra.ph/file/404688f1d43602c68775f.jpg" /></a>
 </p>
+
+<h1 align='center'> ❤️ </h1>
 
 --------
 
@@ -13,6 +15,9 @@
 > * I'm 15 y.o.
 > * B'day 10 Nov
 > ,If you want know 
+> * Commit almost 'every' day
+> * Allways on Whatsapp
+> * `Thx`
 
 ![「Rʟxғʟʏ⁴̅⁰͍⁴̵」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
