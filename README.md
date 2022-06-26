@@ -32,9 +32,15 @@
   <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
 </p>
 
-<p align="center">
+  <p align="center">
   <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
 </p>
+  
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+</p>
+  
+
 </details>
 
 
