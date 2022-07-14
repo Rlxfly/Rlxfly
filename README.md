@@ -4,7 +4,7 @@
   <a href="https://github.com/Rlxfly"><img src="https://telegra.ph/file/d538359feaa71ca83e0a2.jpg" /></a>
 </p>
 
-<h1 align='center'> ❤️ </h1>
+<h1 align='center'> ✋ </h1>
 
 --------
 
