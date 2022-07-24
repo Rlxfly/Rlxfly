@@ -54,7 +54,7 @@
   <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
 </p>
   
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=akkun3704&theme=xcode&area=true&hide_border=true) 
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Rlxfly&theme=xcode&area=true&hide_border=true) 
 
 </details>
 
