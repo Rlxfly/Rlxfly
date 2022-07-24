@@ -1,10 +1,5 @@
 <h1 align='center'> Hi there!</h1>
 
-<p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://telegra.ph/file/d538359feaa71ca83e0a2.jpg" /></a>
-</p>
-
-<h1 align='center'> ❤️ </h1>
 
 --------
 
@@ -59,6 +54,7 @@
   <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
 </p>
   
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Rlxfly&theme=xcode&area=true&hide_border=true) 
 
 </details>
 
