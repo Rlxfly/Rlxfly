@@ -6,10 +6,7 @@
 
 > * Just newbie
 > * I like learning programming language.
-> * Live in Klaten, Central Java, Indonesia
-> * I'm 18 y.o.
-> * B'day 10 Nov
-> ,If you want know 
+> * Indonesia
 > * Commit almost 'every' day (boong bgt)
 > * Allways on Whatsapp
 > * `Thx`
